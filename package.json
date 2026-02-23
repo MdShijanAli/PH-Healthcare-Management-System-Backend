@@ -1,0 +1,20 @@
+{
+  "name": "ph-healthcare-management-system",
+  "version": "1.0.0",
+  "description": "This is PH Health Managment System",
+  "homepage": "https://github.com/MdShijanAli/PH-Healthcare-Management-System-Backend#readme",
+  "bugs": {
+    "url": "https://github.com/MdShijanAli/PH-Healthcare-Management-System-Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdShijanAli/PH-Healthcare-Management-System-Backend.git"
+  },
+  "license": "ISC",
+  "author": "Md Shijan Ali",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
