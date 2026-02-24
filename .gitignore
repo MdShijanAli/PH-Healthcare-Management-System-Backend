@@ -8,3 +8,5 @@ logs
 build
 dist
 *.log
+/generated/prisma
+generated/
