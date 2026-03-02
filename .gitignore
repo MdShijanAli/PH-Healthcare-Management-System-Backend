@@ -10,3 +10,4 @@ dist
 *.log
 /generated/prisma
 generated/
+/src/generated
